@@ -1,0 +1,39 @@
+
+[
+  {
+    "number": "001",
+    "Bild": "",
+    "name": "Super Lemon Haze",
+    "Body": "Yellow",
+    "Background": "White",
+    "Category": "Fruit",
+    "Category 2": "Haze",
+    "Type": "Mostly Sativa",
+    "THC %": 18,
+    "CBG %": ""
+  },
+  {
+    "number": "002",
+    "Bild": "",
+    "name": "Super Silver Haze",
+    "Body": "Silver",
+    "Background": "White",
+    "Category": "Legendary",
+    "Category 2": "Haze",
+    "Type": "mostly sativa",
+    "THC %": 18,
+    "CBG %": 1
+  },
+  {
+    "number": "003",
+    "Bild": "",
+    "name": "Maui Waui",
+    "Body": "Green",
+    "Background": "White",
+    "Category": "Legendary",
+    "Category 2": "",
+    "Type": "mostly sativa",
+    "THC %": 17,
+    "CBG %": ""
+  }   
+]

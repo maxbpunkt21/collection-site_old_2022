@@ -1,0 +1,12 @@
+Filter:
+    "Body"
+    "Background"
+    "Category"
+    "Category2"
+    "Type"
+    
+    "Veröffentlicht"
+
+Veröffentlicht/nicht Veröffentlicht 
+Suchleiste enter/on type 
+Letzte Suche 

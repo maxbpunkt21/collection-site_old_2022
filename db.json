@@ -1,0 +1,4164 @@
+{
+  "cryptostrains":  [
+    {
+      "id": "001",
+      "name": "Super Lemon Haze",
+      "body": "Yellow",
+      "background": "Yellow",
+      "category": "Fruit",
+      "category2": "Haze",
+      "type": "mostly sativa",
+      "thc": 20
+    },
+    {
+      "id": "002",
+      "name": "Super Silver Haze",
+      "body": "Silver",
+      "background": "Black",
+      "category": "Legendary",
+      "category2": "Haze",
+      "type": "mostly sativa",
+      "thc": 21
+    },
+    {
+      "id": "003",
+      "name": "Maui Waui",
+      "body": "Green",
+      "background": "Pink",
+      "category": "Legendary",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 17
+    },
+    {
+      "id": "004",
+      "name": "Orange Bud",
+      "body": "Orange",
+      "background": "Orange",
+      "category": "Fruit",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 19
+    },
+    {
+      "id": "005",
+      "name": "Gelato",
+      "body": "Green",
+      "background": "Green",
+      "category": "Ice Cream",
+      "category2": "Gelato",
+      "type": "hybrid",
+      "thc": 20
+    },
+    {
+      "id": "006",
+      "name": "Cherry Pie",
+      "body": "Green",
+      "background": "Red",
+      "category": "Sweet",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 19
+    },
+    {
+      "id": "007",
+      "name": "Grand Daddy Purple",
+      "body": "Purple",
+      "background": "Orange",
+      "category": "Famous",
+      "category2": "Purple",
+      "type": "mostly indica",
+      "thc": 19
+    },
+    {
+      "id": "008",
+      "name": "White Widow",
+      "body": "White",
+      "background": "Purple",
+      "category": "Legendary",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 21
+    },
+    {
+      "id": "009",
+      "name": "Acapulco Gold",
+      "body": "Gold",
+      "background": "Green",
+      "category": "Legendary",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 19
+    },
+    {
+      "id": "010",
+      "name": "Zkittlez",
+      "body": "Rainbow",
+      "background": "Blue",
+      "category": "Sweet",
+      "category2": "Zkittlez",
+      "type": "mostly indica",
+      "thc": 19
+    },
+    {
+      "id": "011",
+      "name": "Blue Dream",
+      "body": "Blue",
+      "background": "Blue",
+      "category": "Famous",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 20
+    },
+    {
+      "id": "012",
+      "name": "Amnesia Haze",
+      "body": "Green",
+      "background": "Orange",
+      "category": "Famous",
+      "category2": "Haze",
+      "type": "mostly sativa",
+      "thc": 18
+    },
+    {
+      "id": "013",
+      "name": "Pineapple Express",
+      "body": "Green",
+      "background": "Yellow",
+      "category": "Fruit",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 18
+    },
+    {
+      "id": "014",
+      "name": "Girl Scout Cookies",
+      "body": "Green",
+      "background": "Pink",
+      "category": "Famous",
+      "category2": "Cookies",
+      "type": "mostly indica",
+      "thc": 26
+    },
+    {
+      "id": "015",
+      "name": "Alien Kush",
+      "body": "Green",
+      "background": "Purple",
+      "category": "Alien",
+      "category2": "Kush",
+      "type": "hybrid",
+      "thc": 20
+    },
+    {
+      "id": "016",
+      "name": "Gorilla Glue",
+      "body": "Green",
+      "background": "Blue / Green",
+      "category": "Animals",
+      "category2": "Glue",
+      "type": "mostly indica",
+      "thc": 25
+    },
+    {
+      "id": "017",
+      "name": "White Rhino",
+      "body": "White",
+      "background": "Purple",
+      "category": "Animals",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 20
+    },
+    {
+      "id": "019",
+      "name": "Banana Kush",
+      "body": "Yellow",
+      "background": "Blue",
+      "category": "Fruit",
+      "category2": "Kush",
+      "type": "mostly indica",
+      "thc": 21
+    },
+    {
+      "id": "020",
+      "name": "ChemDog",
+      "body": "Green",
+      "background": "Purple",
+      "category": "Famous",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 22
+    },
+    {
+      "id": "021",
+      "name": "Northern Lights",
+      "body": "Rainbow",
+      "background": "White",
+      "category": "Legendary",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 16
+    },
+    {
+      "id": "022",
+      "name": "Mango Kush",
+      "body": "Orange",
+      "background": "Orange",
+      "category": "Fruit",
+      "category2": "Kush",
+      "type": "mostly indica",
+      "thc": 18
+    },
+    {
+      "id": "023",
+      "name": "Blueberry Muffin",
+      "body": "Green",
+      "background": "Pink",
+      "category": "Sweet",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 18
+    },
+    {
+      "id": "024",
+      "name": "Jack Herer",
+      "body": "Green",
+      "background": "Green",
+      "category": "Legendary",
+      "category2": "",
+      "type": "Hybrid",
+      "thc": 17
+    },
+    {
+      "id": "025",
+      "name": "Blue Moon Rock",
+      "body": "Blue",
+      "background": "Blue",
+      "category": "Space",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 20
+    },
+    {
+      "id": "026",
+      "name": "Bubble Gum",
+      "body": "Pink",
+      "background": "Pink",
+      "category": "Famous",
+      "category2": "",
+      "type": "Hybrid",
+      "thc": 17
+    },
+    {
+      "id": "027",
+      "name": "Purple Queen",
+      "body": "Purple",
+      "background": "Red / Ruby",
+      "category": "Famous",
+      "category2": "Purple",
+      "type": "Hybrid",
+      "thc": 25
+    },
+    {
+      "id": "028",
+      "name": "Moby Dick",
+      "body": "Green",
+      "background": "Blue / Green",
+      "category": "Animals",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 18
+    },
+    {
+      "id": "029",
+      "name": "Bruce Banner",
+      "body": "Green",
+      "background": "Purple",
+      "category": "Celebrity",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 25
+    },
+    {
+      "id": "031",
+      "name": "White Shark",
+      "body": "White",
+      "background": "Green",
+      "category": "Animals",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 20
+    },
+    {
+      "id": "032",
+      "name": "Watermelon Kush",
+      "body": "Red",
+      "background": "Green",
+      "category": "Fruit",
+      "category2": "Kush",
+      "type": "mostly indica",
+      "thc": 21
+    },
+    {
+      "id": "033",
+      "name": "Diablo",
+      "body": "Green",
+      "background": "Orange",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 20
+    },
+    {
+      "id": "034",
+      "name": "Cotton Candy Kush",
+      "body": "White",
+      "background": "Purple",
+      "category": "Sweet",
+      "category2": "Kush",
+      "type": "mostly indica",
+      "thc": 20
+    },
+    {
+      "id": "035",
+      "name": "Cheese",
+      "body": "Yellow",
+      "background": "Orange",
+      "category": "Famous",
+      "category2": "Cheese",
+      "type": "mostly indica",
+      "thc": 16
+    },
+    {
+      "id": "036",
+      "name": "THC Bomb",
+      "body": "Green",
+      "background": "Green",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "Hybrid",
+      "thc": 20
+    },
+    {
+      "id": "037",
+      "name": "Purple Elephant",
+      "body": "Purple",
+      "background": "Green",
+      "category": "Animals",
+      "category2": "Purple",
+      "type": "mostly indica",
+      "thc": 17
+    },
+    {
+      "id": "038",
+      "name": "Cactus",
+      "body": "Green",
+      "background": "Yellow / Sand",
+      "category": "Plant",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 21
+    },
+    {
+      "id": "040",
+      "name": "White Smurf",
+      "body": "White",
+      "background": "Blue",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "Hybrid",
+      "thc": 20
+    },
+    {
+      "id": "041",
+      "name": "Strawberry Kush",
+      "body": "Red",
+      "background": "Purple /Pink",
+      "category": "Fruit",
+      "category2": "Kush",
+      "type": "mostly sativa",
+      "thc": 20
+    },
+    {
+      "id": "042",
+      "name": "Shark Attack",
+      "body": "Green",
+      "background": "Blue",
+      "category": "Animals",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 16
+    },
+    {
+      "id": "043",
+      "name": "ICE",
+      "body": "Green",
+      "background": "Blue",
+      "category": "ice",
+      "category2": "",
+      "type": "Hybrid",
+      "thc": 20
+    },
+    {
+      "id": "044",
+      "name": "Chocolope",
+      "body": "Brown",
+      "background": "Purple /Pink",
+      "category": "Sweet",
+      "category2": "Chocolate",
+      "type": "mostly sativa",
+      "thc": 17
+    },
+    {
+      "id": "046",
+      "name": "Jet Fuel",
+      "body": "Green",
+      "background": "Blue",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 20
+    },
+    {
+      "id": "047",
+      "name": "Royal Gorilla",
+      "body": "Green",
+      "background": "Green",
+      "category": "Animals",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 21
+    },
+    {
+      "id": "048",
+      "name": "Saturn OG",
+      "body": "Green",
+      "background": "Blue / Purple",
+      "category": "Space",
+      "category2": "OG",
+      "type": "Hybrid",
+      "thc": 20
+    },
+    {
+      "id": "049",
+      "name": "Gummy Bears",
+      "body": "Green",
+      "background": "Red / Orange",
+      "category": "Animals",
+      "category2": "",
+      "type": "Hybrid",
+      "thc": 20
+    },
+    {
+      "id": "052",
+      "name": "Nukeheads",
+      "body": "Green",
+      "background": "Green",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "",
+      "thc": 23
+    },
+    {
+      "id": "054",
+      "name": "Blue Wolf",
+      "body": "Blue",
+      "background": "Blue",
+      "category": "Animals",
+      "category2": "",
+      "type": "",
+      "thc": 11
+    },
+    {
+      "id": "055",
+      "name": "Cocoa Kush",
+      "body": "Green / Brown",
+      "background": "Green",
+      "category": "Sweet",
+      "category2": "Kush",
+      "type": "Hybrid",
+      "thc": 21
+    },
+    {
+      "id": "056",
+      "name": "Apple Kush",
+      "body": "Red",
+      "background": "Green",
+      "category": "Fruit",
+      "category2": "Kush",
+      "type": "mostly indica",
+      "thc": 20
+    },
+    {
+      "id": "058",
+      "name": "Space Queen",
+      "body": "Green",
+      "background": "Purple / Pink",
+      "category": "Space",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 14
+    },
+    {
+      "id": "060",
+      "name": "Golden Tiger",
+      "body": "Gold",
+      "background": "Blue / Green",
+      "category": "Animals",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 18
+    },
+    {
+      "id": "061",
+      "name": "Yeti OG",
+      "body": "White",
+      "background": "Blue",
+      "category": "Fantasy",
+      "category2": "OG",
+      "type": "mostly indica",
+      "thc": 20
+    },
+    {
+      "id": "065",
+      "name": "Popcorn Kush",
+      "body": "White",
+      "background": "Pink",
+      "category": "Sweet",
+      "category2": "Kush",
+      "type": "mostly indica",
+      "thc": 21
+    },
+    {
+      "id": "066",
+      "name": "Sour Diesel",
+      "body": "Green",
+      "background": "Yellow / Green",
+      "category": "Famous",
+      "category2": "Diesel",
+      "type": "mostly sativa",
+      "thc": 18
+    },
+    {
+      "id": "067",
+      "name": "Grape Ape",
+      "body": "Green",
+      "background": "Red / Ruby",
+      "category": "Animals",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 17
+    },
+    {
+      "id": "068",
+      "name": "Golden Goat",
+      "body": "Gold",
+      "background": "Blue",
+      "category": "Animals",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 20
+    },
+    {
+      "id": "069",
+      "name": "White Russian",
+      "body": "White",
+      "background": "Grey / White",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 18
+    },
+    {
+      "id": "070",
+      "name": "Blueberry",
+      "body": "Blue / Green",
+      "background": "Green",
+      "category": "Fruit",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 21
+    },
+    {
+      "id": "071",
+      "name": "Lemon Kush",
+      "body": "Yellow / Green",
+      "background": "Yellow / Green",
+      "category": "Fruit",
+      "category2": "Kush",
+      "type": "hybrid",
+      "thc": 20
+    },
+    {
+      "id": "073",
+      "name": "Strawberry Cough",
+      "body": "Red",
+      "background": "Purple / Pink",
+      "category": "Fruit",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 17
+    },
+    {
+      "id": "074",
+      "name": "Original Glue aka GG4",
+      "body": "Green",
+      "background": "Blue / Green",
+      "category": "Famous",
+      "category2": "Glue",
+      "type": "mostly indica",
+      "thc": 25
+    },
+    {
+      "id": "075",
+      "name": "Green Crack",
+      "body": "Green",
+      "background": "Yellow / Green",
+      "category": "Drug",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 17
+    },
+    {
+      "id": "076",
+      "name": "Lemon Bubble",
+      "body": "Yellow / Green",
+      "background": "Yellow / Green",
+      "category": "Fruit",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 19
+    },
+    {
+      "id": "077",
+      "name": "Ghost OG",
+      "body": "Green",
+      "background": "Green",
+      "category": "Fantasy",
+      "category2": "OG",
+      "type": "mostly indica",
+      "thc": 21
+    },
+    {
+      "id": "078",
+      "name": "Firefly OG",
+      "body": "Green",
+      "background": "Green",
+      "category": "Animals",
+      "category2": "OG",
+      "type": "hybrid",
+      "thc": 25
+    },
+    {
+      "id": "079",
+      "name": "Strawberry Banana",
+      "body": "Yellow / Red / Green",
+      "background": "Pink",
+      "category": "Fruit",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 21
+    },
+    {
+      "id": "080",
+      "name": "Monster Cookies",
+      "body": "Green",
+      "background": "Purple",
+      "category": "Sweet",
+      "category2": "Cookies",
+      "type": "mostly indica",
+      "thc": 20
+    },
+    {
+      "id": "081",
+      "name": "Cherry Kush",
+      "body": "Red",
+      "background": "Red",
+      "category": "Fruit",
+      "category2": "Kush",
+      "type": "mostly indica",
+      "thc": 20
+    },
+    {
+      "id": "082",
+      "name": "Magic Melon",
+      "body": "Green",
+      "background": "Green",
+      "category": "Fruit",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 21
+    },
+    {
+      "id": "083",
+      "name": "Brain Candy",
+      "body": "Green",
+      "background": "Pink",
+      "category": "Sweet",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 21
+    },
+    {
+      "id": "084",
+      "name": "Panda OG",
+      "body": "White / Black",
+      "background": "Green",
+      "category": "Animals",
+      "category2": "OG",
+      "type": "hybrid",
+      "thc": 22
+    },
+    {
+      "id": "085",
+      "name": "Armageddon",
+      "body": "Green",
+      "background": "Green",
+      "category": "Space",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 17
+    },
+    {
+      "id": "086",
+      "name": "Zombie Kush",
+      "body": "Green",
+      "background": "Purple",
+      "category": "Fantasy",
+      "category2": "Kush",
+      "type": "mostly indica",
+      "thc": 20
+    },
+    {
+      "id": "087",
+      "name": "Blowfish",
+      "body": "Green",
+      "background": "Blue / Green",
+      "category": "Animals",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 20
+    },
+    {
+      "id": "088",
+      "name": "Black Mamba",
+      "body": "Green",
+      "background": "Green",
+      "category": "Animals",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 20
+    },
+    {
+      "id": "090",
+      "name": "Green Ninja",
+      "body": "Green",
+      "background": "Green",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 22
+    },
+    {
+      "id": "091",
+      "name": "Vanilla Kush",
+      "body": "Yellow / Vanilla",
+      "background": "Yellow / Vanilla",
+      "category": "Sweet",
+      "category2": "Kush",
+      "type": "mostly indica",
+      "thc": 18
+    },
+    {
+      "id": "092",
+      "name": "Timewreck",
+      "body": "Green",
+      "background": "Blue / Green",
+      "category": "",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 20
+    },
+    {
+      "id": "093",
+      "name": "Double Dream",
+      "body": "Green",
+      "background": "Blue / Green",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 18
+    },
+    {
+      "id": "094",
+      "name": "Lemon Skunk",
+      "body": "Green",
+      "background": "Green / Yellow",
+      "category": "Fruit",
+      "category2": "Skunk",
+      "type": "mostly sativa",
+      "thc": 20
+    },
+    {
+      "id": "095",
+      "name": "Golden Pineapple",
+      "body": "Gold",
+      "background": "Blue",
+      "category": "Fruit",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 20
+    },
+    {
+      "id": "096",
+      "name": "Strawberry Alien Kush",
+      "body": "Red",
+      "background": "Purple",
+      "category": "Fruit",
+      "category2": "Kush",
+      "type": "mostly indica",
+      "thc": 12
+    },
+    {
+      "id": "097",
+      "name": "LSD",
+      "body": "Rainbow",
+      "background": "Blue / Green",
+      "category": "Drug",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 22
+    },
+    {
+      "id": "098",
+      "name": "Sherbert",
+      "body": "Green",
+      "background": "Blue / Green",
+      "category": "Sweet",
+      "category2": "Gelato",
+      "type": "mostly indica",
+      "thc": 18
+    },
+    {
+      "id": "099",
+      "name": "Alien Dawg",
+      "body": "Green",
+      "background": "Blue / Green",
+      "category": "Space",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 20
+    },
+    {
+      "id": 100,
+      "name": "Big Mac",
+      "body": "Green",
+      "background": "Green",
+      "category": "Food",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 17
+    },
+    {
+      "id": 101,
+      "name": "Harlequin",
+      "body": "Green",
+      "background": "Red / Pink / Ruby",
+      "category": "Celebrity",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 9
+    },
+    {
+      "id": 102,
+      "name": "Kiwi Skunk",
+      "body": "Brown / Green",
+      "background": "Green",
+      "category": "Fruit",
+      "category2": "Skunk",
+      "type": "hybrid",
+      "thc": 15
+    },
+    {
+      "id": 103,
+      "name": "Blue Banana",
+      "body": "Blue",
+      "background": "Blue",
+      "category": "Fruit",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 21
+    },
+    {
+      "id": 104,
+      "name": "Kandy Kush",
+      "body": "Green",
+      "background": "Green",
+      "category": "Sweet",
+      "category2": "Kush",
+      "type": "mostly indica",
+      "thc": 20
+    },
+    {
+      "id": 105,
+      "name": "Cherry Dawg",
+      "body": "Red",
+      "background": "Pink",
+      "category": "Fruit",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 21
+    },
+    {
+      "id": 106,
+      "name": "Lemon Tree",
+      "body": "Green",
+      "background": "Green / Yellow",
+      "category": "Fruit",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 20
+    },
+    {
+      "id": 107,
+      "name": "Purple Moss",
+      "body": "Purple",
+      "background": "Green",
+      "category": "Fantasy",
+      "category2": "Purple",
+      "type": "mostly indica",
+      "thc": 13
+    },
+    {
+      "id": 108,
+      "name": "Apricot Jelly",
+      "body": "Orange",
+      "background": "Pink",
+      "category": "Fruit",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 29
+    },
+    {
+      "id": 109,
+      "name": "Honey Bananas",
+      "body": "Yellow",
+      "background": "Orange",
+      "category": "Fruit",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 21
+    },
+    {
+      "id": 110,
+      "name": "Trainwreck",
+      "body": "Green",
+      "background": "Green",
+      "category": "Famous",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 20
+    },
+    {
+      "id": 111,
+      "name": "Blue Cheese",
+      "body": "White",
+      "background": "Green",
+      "category": "Food",
+      "category2": "Cheese",
+      "type": "mostly indica",
+      "thc": 20
+    },
+    {
+      "id": 112,
+      "name": "Martian Muffins",
+      "body": "Green",
+      "background": "Orange",
+      "category": "Space",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 25
+    },
+    {
+      "id": 113,
+      "name": "Wedding Gelato",
+      "body": "Green",
+      "background": "Pink",
+      "category": "Ice Cream",
+      "category2": "Gelato",
+      "type": "mostly indica",
+      "thc": 23
+    },
+    {
+      "id": 114,
+      "name": "Black Tuna",
+      "body": "Black",
+      "background": "Green",
+      "category": "Animals",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 19
+    },
+    {
+      "id": 115,
+      "name": "Mandarin Zkittlez",
+      "body": "Rainbow",
+      "background": "Purple / Pink",
+      "category": "Fruit",
+      "category2": "Zkittlez",
+      "type": "mostly indica",
+      "thc": 20
+    },
+    {
+      "id": 116,
+      "name": "Banana Milk",
+      "body": "Yellow / White / Green",
+      "background": "Blue",
+      "category": "Fruit",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 19
+    },
+    {
+      "id": 117,
+      "name": "French Bread",
+      "body": "Green",
+      "background": "Green",
+      "category": "Food",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 20
+    },
+    {
+      "id": 118,
+      "name": "Strawberry Mango Haze",
+      "body": "Red / Orange",
+      "background": "Purple / Pink",
+      "category": "Fruit",
+      "category2": "Haze",
+      "type": "mostly sativa",
+      "thc": 22
+    },
+    {
+      "id": 119,
+      "name": "Lime Killer",
+      "body": "",
+      "background": "",
+      "category": "Fruit",
+      "category2": "",
+      "type": "mostly Sativa",
+      "thc": 20
+    },
+    {
+      "id": 121,
+      "name": "Milky Way",
+      "body": "Black",
+      "background": "Purple / Blue",
+      "category": "Space",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 21
+    },
+    {
+      "id": 122,
+      "name": "Glass Apple",
+      "body": "Green",
+      "background": "Blue / Green",
+      "category": "Fruit",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 22
+    },
+    {
+      "id": 123,
+      "name": "Diamond OG",
+      "body": "Green",
+      "background": "Green",
+      "category": "Jewelry",
+      "category2": "OG",
+      "type": "hybrid",
+      "thc": 18
+    },
+    {
+      "id": 125,
+      "name": "Melon Gum",
+      "body": "Orange",
+      "background": "Pink / Orange",
+      "category": "Fruit",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 21
+    },
+    {
+      "id": 127,
+      "name": "Ghost Cookies",
+      "body": "White / Green",
+      "background": "Green",
+      "category": "Sweet",
+      "category2": "Cookies",
+      "type": "mostly indica",
+      "thc": 20
+    },
+    {
+      "id": 128,
+      "name": "Blue Mammoth",
+      "body": "Blue",
+      "background": "Blue",
+      "category": "Animals",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 14
+    },
+    {
+      "id": 129,
+      "name": "Lemon Garlic",
+      "body": "Green",
+      "background": "Green / Yellow",
+      "category": "Food",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 19
+    },
+    {
+      "id": 131,
+      "name": "Banana Bread",
+      "body": "Yellow / White",
+      "background": "Purple",
+      "category": "Food",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 21
+    },
+    {
+      "id": 132,
+      "name": "Pickle Bud",
+      "body": "Green",
+      "background": "Green",
+      "category": "Food",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 20
+    },
+    {
+      "id": 133,
+      "name": "Purple Unicorn",
+      "body": "Purple / Rainbow",
+      "background": "Pink",
+      "category": "Fantasy",
+      "category2": "Purple",
+      "type": "hybrid",
+      "thc": 21
+    },
+    {
+      "id": 134,
+      "name": "Lemon Tangie",
+      "body": "Yellow / Orange",
+      "background": "Green",
+      "category": "Fruit",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 19
+    },
+    {
+      "id": 135,
+      "name": "Sputnik",
+      "body": "Silver",
+      "background": "Black",
+      "category": "Space",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 19
+    },
+    {
+      "id": 137,
+      "name": "Mint Chocolate Chip",
+      "body": "Green / Brown",
+      "background": "Blue / Green",
+      "category": "Sweet",
+      "category2": "Chocolate",
+      "type": "hybrid",
+      "thc": 20
+    },
+    {
+      "id": 138,
+      "name": "Black Cherry Soda",
+      "body": "Red",
+      "background": "Pink",
+      "category": "Sweet",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 20
+    },
+    {
+      "id": 139,
+      "name": "Baby Boom",
+      "body": "Green",
+      "background": "Blue / Green",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 19
+    },
+    {
+      "id": 140,
+      "name": "Purple Cheese",
+      "body": "Purple / Yellow",
+      "background": "Green",
+      "category": "Food",
+      "category2": "Cheese",
+      "type": "hybrid",
+      "thc": 20
+    },
+    {
+      "id": 141,
+      "name": "ICED Grapefruit",
+      "body": "Orange",
+      "background": "Blue",
+      "category": "ice",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 22
+    },
+    {
+      "id": 142,
+      "name": "Watermelon Zkittlez",
+      "body": "Green / Red / Rainbow",
+      "background": "Blue / Green",
+      "category": "Fruit",
+      "category2": "Zkittlez",
+      "type": "mostly indica",
+      "thc": 25
+    },
+    {
+      "id": 143,
+      "name": "Lemon Bananas",
+      "body": "Yellow",
+      "background": "Orange",
+      "category": "Fruit",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 25
+    },
+    {
+      "id": 144,
+      "name": "Sasquatch",
+      "body": "Green",
+      "background": "Green",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 30
+    },
+    {
+      "id": 145,
+      "name": "Blackberry Kush",
+      "body": "Green / Purple",
+      "background": "Green",
+      "category": "Fruit",
+      "category2": "Kush",
+      "type": "mostly indica",
+      "thc": 16
+    },
+    {
+      "id": 146,
+      "name": "Blueberry Pancakes",
+      "body": "Yellow / Blue / Green",
+      "background": "Purple",
+      "category": "Fruit",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 20
+    },
+    {
+      "id": 147,
+      "name": "Alien Sour Apple",
+      "body": "Green",
+      "background": "Green",
+      "category": "Alien",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 26
+    },
+    {
+      "id": 148,
+      "name": "Strawberry Lemonade",
+      "body": "Red / Yellow",
+      "background": "Blue",
+      "category": "Sweet",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 21
+    },
+    {
+      "id": 149,
+      "name": "Chocolate Fondue",
+      "body": "Chocolate / Green",
+      "background": "Green",
+      "category": "Sweet",
+      "category2": "Chocolate",
+      "type": "mostly sativa",
+      "thc": 20
+    },
+    {
+      "id": 150,
+      "name": "Purple Martian Kush",
+      "body": "Purple",
+      "background": "Orange",
+      "category": "Alien",
+      "category2": "Purple",
+      "type": "mostly indica",
+      "thc": 20
+    },
+    {
+      "id": 152,
+      "name": "Blackberry Rhino",
+      "body": "Purple",
+      "background": "Pink",
+      "category": "Animals",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 16
+    },
+    {
+      "id": 153,
+      "name": "Einstein’s Pipe",
+      "body": "Green",
+      "background": "Green",
+      "category": "Celebrity",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 26
+    },
+    {
+      "id": 154,
+      "name": "Dark Side of the Moon",
+      "body": "Black",
+      "background": "Black",
+      "category": "Space",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 20
+    },
+    {
+      "id": 155,
+      "name": "Pink Mango",
+      "body": "Pink / Orange / Yellow",
+      "background": "Pink",
+      "category": "Fruit",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 17
+    },
+    {
+      "id": 156,
+      "name": "Vanilla Gorilla",
+      "body": "Yellow / Vanilla",
+      "background": "Green / Yellow",
+      "category": "Animals",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 25
+    },
+    {
+      "id": 158,
+      "name": "Blackberry Lime",
+      "body": "Purple / Yellow / Green",
+      "background": "Purple",
+      "category": "Fruit",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 22
+    },
+    {
+      "id": 160,
+      "name": "Truffle Butter",
+      "body": "Yellow / Brown",
+      "background": "Green",
+      "category": "Food",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 20
+    },
+    {
+      "id": 162,
+      "name": "Fire OG",
+      "body": "Green / Orange",
+      "background": "Purple",
+      "category": "OG",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 20
+    },
+    {
+      "id": 163,
+      "name": "Acid",
+      "body": "Rainbow / Green",
+      "background": "Blue / Green",
+      "category": "Drug",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 16
+    },
+    {
+      "id": 164,
+      "name": "Citral Glue",
+      "body": "Green / Yellow",
+      "background": "Green",
+      "category": "Fruit",
+      "category2": "Glue",
+      "type": "mostly indica",
+      "thc": 21
+    },
+    {
+      "id": 165,
+      "name": "Purple Dragon",
+      "body": "Purple",
+      "background": "Pink",
+      "category": "Fantasy",
+      "category2": "Purple",
+      "type": "hybrid",
+      "thc": 21
+    },
+    {
+      "id": 166,
+      "name": "Mango Sapphire",
+      "body": "Blue / Orange / Yellow",
+      "background": "Purple",
+      "category": "Jewelry",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 21
+    },
+    {
+      "id": 167,
+      "name": "Tangerine Dream",
+      "body": "Orange / Green",
+      "background": "Blue / Green",
+      "category": "Fruit",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 25
+    },
+    {
+      "id": 168,
+      "name": "Alien Technology",
+      "body": "Green",
+      "background": "Black",
+      "category": "Alien",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 16
+    },
+    {
+      "id": 169,
+      "name": "Fat Banana",
+      "body": "Yellow",
+      "background": "Blue / Green",
+      "category": "Fruit",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 26
+    },
+    {
+      "id": 170,
+      "name": "Jurassic Haze",
+      "body": "Green",
+      "background": "Green",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 22
+    },
+    {
+      "id": 171,
+      "name": "Kryptonite",
+      "body": "Green",
+      "background": "Black",
+      "category": "Space",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 24
+    },
+    {
+      "id": 172,
+      "name": "Blueberry Cheesecake",
+      "body": "Yellow / Purple",
+      "background": "Purple",
+      "category": "Cheese",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 22
+    },
+    {
+      "id": 173,
+      "name": "Coconut OG",
+      "body": "Brown / Green",
+      "background": "Green",
+      "category": "OG",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 23
+    },
+    {
+      "id": 174,
+      "name": "Alien Apple Warp",
+      "body": "Green / Blue",
+      "background": "Black",
+      "category": "",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 26
+    },
+    {
+      "id": 176,
+      "name": "Pineapple Cheese",
+      "body": "Yellow",
+      "background": "Green",
+      "category": "Cheese",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 22
+    },
+    {
+      "id": 177,
+      "name": "Banana Mango",
+      "body": "Orange",
+      "background": "Purple",
+      "category": "Fruit",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 21
+    },
+    {
+      "id": 178,
+      "name": "Strawberry Marshmallow",
+      "body": "White / Red / Green",
+      "background": "Pink",
+      "category": "Sweet",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 24
+    },
+    {
+      "id": 179,
+      "name": "Infinity Bud",
+      "body": "Green",
+      "background": "Green",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 21
+    },
+    {
+      "id": 180,
+      "name": "Octopussy",
+      "body": "Green",
+      "background": "Blue / Green",
+      "category": "Animals",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 19
+    },
+    {
+      "id": 181,
+      "name": "Space Lemon",
+      "body": "Yellow / Green",
+      "background": "Black",
+      "category": "Space",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 21
+    },
+    {
+      "id": 182,
+      "name": "Cat-Dog",
+      "body": "Yellow",
+      "background": "Pink / Orange",
+      "category": "Animals",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 21
+    },
+    {
+      "id": 183,
+      "name": "Rainbow Truffle",
+      "body": "Brown / Rainbow",
+      "background": "Purple",
+      "category": "Food",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 26
+    },
+    {
+      "id": 184,
+      "name": "Woody Kush",
+      "body": "Green",
+      "background": "Orange / Red",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 23
+    },
+    {
+      "id": 185,
+      "name": "Light Speed",
+      "body": "Green",
+      "background": "Black",
+      "category": "Space",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 29
+    },
+    {
+      "id": 186,
+      "name": "Peanut Butter Bears",
+      "body": "Brown",
+      "background": "Orange / Yellow",
+      "category": "Food",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 26
+    },
+    {
+      "id": 187,
+      "name": "Biohazard",
+      "body": "Neon Green",
+      "background": "Green",
+      "category": "Neon",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 22
+    },
+    {
+      "id": 188,
+      "name": "Neon Super Skunk",
+      "body": "Neon Green",
+      "background": "Black",
+      "category": "Animals",
+      "category2": "Skunk",
+      "type": "mostly indica",
+      "thc": 20
+    },
+    {
+      "id": 189,
+      "name": "Unicorn Bacon",
+      "body": "Green",
+      "background": "Pink / Orange",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 26
+    },
+    {
+      "id": 190,
+      "name": "Supernova",
+      "body": "Neon Green",
+      "background": "Black",
+      "category": "Space",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 25
+    },
+    {
+      "id": 191,
+      "name": "Truffula Tree",
+      "body": "Green",
+      "background": "Pink / Orange",
+      "category": "Food",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 21
+    },
+    {
+      "id": 192,
+      "name": "Rocket Banana",
+      "body": "Yellow / Green",
+      "background": "Black",
+      "category": "Space",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 26
+    },
+    {
+      "id": 195,
+      "name": "Cosmic Brain",
+      "body": "Neon Green",
+      "background": "Black",
+      "category": "Space",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 11
+    },
+    {
+      "id": 196,
+      "name": "Area 51",
+      "body": "Green",
+      "background": "Orange / Yellow",
+      "category": "Space",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 17
+    },
+    {
+      "id": 198,
+      "name": "Acid (Part 2)",
+      "body": "Green",
+      "background": "Rainbow",
+      "category": "Drug",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 20
+    },
+    {
+      "id": 200,
+      "name": "Tiger Melon",
+      "body": "Orange",
+      "background": "Orange / Yellow",
+      "category": "Fruit",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 20
+    },
+    {
+      "id": 201,
+      "name": "Dead Banana",
+      "body": "Yellow / Grey",
+      "background": "Blue / Green",
+      "category": "Fruit",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 21
+    },
+    {
+      "id": 202,
+      "name": "Moon Walker Kush",
+      "body": "Green / Grey",
+      "background": "Black",
+      "category": "Space",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 22
+    },
+    {
+      "id": 204,
+      "name": "Rainbow Wreck",
+      "body": "Rainbow / Green",
+      "background": "Black",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 29
+    },
+    {
+      "id": 205,
+      "name": "Gorilla Nut",
+      "body": "Brown",
+      "background": "Green",
+      "category": "Animals",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 26
+    },
+    {
+      "id": 206,
+      "name": "Radioactive Kush",
+      "body": "Neon Green",
+      "background": "Black",
+      "category": "Neon",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 20
+    },
+    {
+      "id": 207,
+      "name": "Illusion OG",
+      "body": "Green",
+      "background": "Purple",
+      "category": "Fantasy",
+      "category2": "OG",
+      "type": "mostly indica",
+      "thc": 20
+    },
+    {
+      "id": 208,
+      "name": "Candy Chrome",
+      "body": "Silver / Green",
+      "background": "Silver",
+      "category": "Sweet",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 21
+    },
+    {
+      "id": 209,
+      "name": "Haley’s Comet",
+      "body": "Neon Green",
+      "background": "Black",
+      "category": "Space",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 10
+    },
+    {
+      "id": 210,
+      "name": "Alien Tits",
+      "body": "Green / Pink",
+      "background": "Black",
+      "category": "Alien",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 21
+    },
+    {
+      "id": 211,
+      "name": "Vanilla Sky",
+      "body": "Yellow / Vanilla",
+      "background": "Yellow / Vanilla",
+      "category": "Sky",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 24
+    },
+    {
+      "id": 212,
+      "name": "Alien Abduction",
+      "body": "Green / Purple",
+      "background": "Black",
+      "category": "Alien",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 21
+    },
+    {
+      "id": 216,
+      "name": "Trippy Gorilla",
+      "body": "Rainbow",
+      "background": "Purple / Pink",
+      "category": "Trippy",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 27
+    },
+    {
+      "id": 217,
+      "name": "Cosmic Glue",
+      "body": "Neon Green",
+      "background": "Black",
+      "category": "Space",
+      "category2": "Glue",
+      "type": "mostly indica",
+      "thc": 26
+    },
+    {
+      "id": 219,
+      "name": "Cosmic Collision",
+      "body": "Green / Neon Green",
+      "background": "Black",
+      "category": "Space",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 26
+    },
+    {
+      "id": 220,
+      "name": "Lemon Trip",
+      "body": "Yellow / Pink / Purple",
+      "background": "Black",
+      "category": "Trippy",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 26
+    },
+    {
+      "id": 223,
+      "name": "Lochness",
+      "body": "Green",
+      "background": "Blue / Green",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 22
+    },
+    {
+      "id": 224,
+      "name": "Time Traveller",
+      "body": "Green",
+      "background": "Green / Yellow",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 23
+    },
+    {
+      "id": 226,
+      "name": "Alien Cookies",
+      "body": "Brown",
+      "background": "Black",
+      "category": "Alien",
+      "category2": "Cookies",
+      "type": "hybrid",
+      "thc": 22
+    },
+    {
+      "id": 227,
+      "name": "Banana Peel",
+      "body": "Yellow / Green",
+      "background": "Purple",
+      "category": "Fruit",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 19
+    },
+    {
+      "id": 228,
+      "name": "Viking Kush",
+      "body": "Green",
+      "background": "Green",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 25
+    },
+    {
+      "id": 229,
+      "name": "Lava Kush",
+      "body": "Neon Green",
+      "background": "Black",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 17
+    },
+    {
+      "id": 230,
+      "name": "Poison Toad",
+      "body": "Green",
+      "background": "Green",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 26
+    },
+    {
+      "id": 232,
+      "name": "Alien Glue",
+      "body": "Neon Green / Purple",
+      "background": "Black",
+      "category": "Alien",
+      "category2": "Glue",
+      "type": "mostly indica",
+      "thc": 21
+    },
+    {
+      "id": 233,
+      "name": "Alien Banner OG",
+      "body": "Green",
+      "background": "Black",
+      "category": "Alien",
+      "category2": "OG",
+      "type": "hybrid",
+      "thc": 21
+    },
+    {
+      "id": 235,
+      "name": "Alien Ice Cream",
+      "body": "Brown / Green",
+      "background": "Black",
+      "category": "Ice Cream",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 25
+    },
+    {
+      "id": 236,
+      "name": "Alien Gorilla",
+      "body": "Yellow / Green",
+      "background": "Black",
+      "category": "Alien",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 21
+    },
+    {
+      "id": 237,
+      "name": "Flamin’ Alien",
+      "body": "Neon Green / Green",
+      "background": "Black",
+      "category": "Alien",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 26
+    },
+    {
+      "id": 238,
+      "name": "Alien Blackout",
+      "body": "Green",
+      "background": "Black",
+      "category": "Alien",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 21
+    },
+    {
+      "id": 239,
+      "name": "Weasel Diesel Alien",
+      "body": "Khaki / Green",
+      "background": "Black",
+      "category": "Alien",
+      "category2": "Diesel",
+      "type": "mostly indica",
+      "thc": 25
+    },
+    {
+      "id": 240,
+      "name": "Love Triangle",
+      "body": "Green",
+      "background": "Pink",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 22
+    },
+    {
+      "id": 241,
+      "name": "Clockwork Orange",
+      "body": "Green",
+      "background": "Orange",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 20
+    },
+    {
+      "id": 243,
+      "name": "Pineapple Skunk",
+      "body": "Green",
+      "background": "Green",
+      "category": "Fruit",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 18
+    },
+    {
+      "id": 244,
+      "name": "Hellhound",
+      "body": "Green / Orange",
+      "background": "Black / Dark Green",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 23
+    },
+    {
+      "id": 245,
+      "name": "Hammer Shark",
+      "body": "Green",
+      "background": "Blue / Green",
+      "category": "Animals",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 19
+    },
+    {
+      "id": 247,
+      "name": "Evil Banana",
+      "body": "Yellow",
+      "background": "Purple / Pink",
+      "category": "Fruit",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 21
+    },
+    {
+      "id": 248,
+      "name": "Acid Orange",
+      "body": "Orange / Rainbow",
+      "background": "Black",
+      "category": "Trippy",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 20
+    },
+    {
+      "id": 250,
+      "name": "Roswell’s Lemonade",
+      "body": "Green",
+      "background": "Yellow / Green",
+      "category": "Space",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 22
+    },
+    {
+      "id": 254,
+      "name": "Thor’s Hammer",
+      "body": "Grey / Green",
+      "background": "Green",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 23
+    },
+    {
+      "id": 257,
+      "name": "Rainbow Glue",
+      "body": "Rainbow",
+      "background": "Black",
+      "category": "Fantasy",
+      "category2": "Glue",
+      "type": "mostly indica",
+      "thc": 22
+    },
+    {
+      "id": 258,
+      "name": "Sweet Pink Banana",
+      "body": "Pink",
+      "background": "Purple / Pink",
+      "category": "Fruit",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 23
+    },
+    {
+      "id": 260,
+      "name": "Turtle Island",
+      "body": "Green",
+      "background": "Blue / Green",
+      "category": "Animals",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 22
+    },
+    {
+      "id": 261,
+      "name": "Mozzerella",
+      "body": "White / Green",
+      "background": "Green",
+      "category": "Food",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 20
+    },
+    {
+      "id": 262,
+      "name": "Brain Gum",
+      "body": "Neon Green",
+      "background": "Black",
+      "category": "Sweet",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 21
+    },
+    {
+      "id": 263,
+      "name": "Magic Eraser",
+      "body": "Green",
+      "background": "Blue / Green",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 27
+    },
+    {
+      "id": 267,
+      "name": "Nano Banano",
+      "body": "Yellow / Green",
+      "background": "Rainbow / Purple / Pink / Orange",
+      "category": "Fruit",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 19
+    },
+    {
+      "id": 270,
+      "name": "Kaleidos Dope",
+      "body": "Green",
+      "background": "Rainbow / Purple / Pink / Orange",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 22
+    },
+    {
+      "id": 271,
+      "name": "Crystal Skull",
+      "body": "Blue / Green",
+      "background": "Blue",
+      "category": "Jewelry",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 23
+    },
+    {
+      "id": 272,
+      "name": "Brains Escape",
+      "body": "Green",
+      "background": "Green",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 12
+    },
+    {
+      "id": 273,
+      "name": "Oreoz",
+      "body": "Brown",
+      "background": "Blue / Green",
+      "category": "Sweet",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 33
+    },
+    {
+      "id": 274,
+      "name": "Peanutbutter Gelato",
+      "body": "Brown",
+      "background": "Yellow / Orange",
+      "category": "Ice Cream",
+      "category2": "Gelato",
+      "type": "mostly indica",
+      "thc": 22
+    },
+    {
+      "id": 276,
+      "name": "Alieno Formaggio",
+      "body": "Yellow",
+      "background": "Black",
+      "category": "Alien",
+      "category2": "Cheese",
+      "type": "mostly indica",
+      "thc": 21
+    },
+    {
+      "id": 278,
+      "name": "Acid (Part 3)",
+      "body": "Rainbow / Rainbow",
+      "background": "Black",
+      "category": "Drug",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 22
+    },
+    {
+      "id": 279,
+      "name": "Banana Joint",
+      "body": "Grey / Green",
+      "background": "Blue / Green",
+      "category": "Fruit",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 21
+    },
+    {
+      "id": 282,
+      "name": "Citrus Rush",
+      "body": "Green / Yellow",
+      "background": "Blue / Green",
+      "category": "Fruit",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 26
+    },
+    {
+      "id": 285,
+      "name": "Purple Pineapple Bomb",
+      "body": "Purple / Grey",
+      "background": "Green",
+      "category": "Fruit",
+      "category2": "Purple",
+      "type": "mostly indica",
+      "thc": 21
+    },
+    {
+      "id": 286,
+      "name": "Emerald Haze",
+      "body": "Green / Grey",
+      "background": "Green",
+      "category": "Jewelry",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 20
+    },
+    {
+      "id": 287,
+      "name": "Banana Glue",
+      "body": "Yellow",
+      "background": "Purple",
+      "category": "Fruit",
+      "category2": "Glue",
+      "type": "mostly indica",
+      "thc": 21
+    },
+    {
+      "id": 288,
+      "name": "Drippy Eye",
+      "body": "Rainbow / Green",
+      "background": "Purple",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 26
+    },
+    {
+      "id": 289,
+      "name": "Gorilla Zkittlez",
+      "body": "Rainbow / Green",
+      "background": "Blue",
+      "category": "Animals",
+      "category2": "Zkittlez",
+      "type": "mostly indica",
+      "thc": 21
+    },
+    {
+      "id": 290,
+      "name": "Plutonium",
+      "body": "Neon Green",
+      "background": "Black",
+      "category": "Neon",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 27
+    },
+    {
+      "id": 292,
+      "name": "Strawberry Glue",
+      "body": "Red / Green",
+      "background": "Green",
+      "category": "Fruit",
+      "category2": "Glue",
+      "type": "mostly indica",
+      "thc": 26
+    },
+    {
+      "id": 293,
+      "name": "Agent Banana",
+      "body": "Yellow / Green",
+      "background": "Purple / Pink",
+      "category": "Fruit",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 21
+    },
+    {
+      "id": 294,
+      "name": "Blue Pill",
+      "body": "Blue",
+      "background": "Blue",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 28
+    },
+    {
+      "id": 295,
+      "name": "Acid - Part 4",
+      "body": "Rainbow",
+      "background": "Black",
+      "category": "Drug",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 22
+    },
+    {
+      "id": 297,
+      "name": "Rainbow Kiss",
+      "body": "Rainbow / Green",
+      "background": "Purple",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 26
+    },
+    {
+      "id": 298,
+      "name": "24K Banana",
+      "body": "Gold",
+      "background": "Black",
+      "category": "Jewelry",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 22
+    },
+    {
+      "id": 299,
+      "name": "Molotov OG",
+      "body": "Green / Orange",
+      "background": "Green",
+      "category": "Fantasy",
+      "category2": "OG",
+      "type": "hybrid",
+      "thc": 22
+    },
+    {
+      "id": 301,
+      "name": "Rainbow Road",
+      "body": "Rainbow / Green",
+      "background": "Blue / Green",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 21
+    },
+    {
+      "id": 302,
+      "name": "Strawberry Syrup",
+      "body": "Red / Pink",
+      "background": "Purple",
+      "category": "Sweet",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 22
+    },
+    {
+      "id": 303,
+      "name": "Cats in Space",
+      "body": "Green",
+      "background": "Black",
+      "category": "Space",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 25
+    },
+    {
+      "id": 304,
+      "name": "Gorilla Bilbo",
+      "body": "Green",
+      "background": "Green",
+      "category": "Animals",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 25
+    },
+    {
+      "id": 305,
+      "name": "Watermelon Gelato",
+      "body": "Red",
+      "background": "Green",
+      "category": "Ice Cream",
+      "category2": "Gelato",
+      "type": "mostly indica",
+      "thc": 26
+    },
+    {
+      "id": 306,
+      "name": "Ice Age",
+      "body": "Blue / Green",
+      "background": "Blue",
+      "category": "ice",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 27
+    },
+    {
+      "id": 307,
+      "name": "Alaskan Thunder F*ck",
+      "body": "Green",
+      "background": "Blue",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 20
+    },
+    {
+      "id": 308,
+      "name": "AK-47",
+      "body": "Grey / Brown / Green",
+      "background": "Purple",
+      "category": "Famous",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 21
+    },
+    {
+      "id": 310,
+      "name": "Biscotti",
+      "body": "Green",
+      "background": "Green",
+      "category": "Sweet",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 25
+    },
+    {
+      "id": 311,
+      "name": "NYC Sour Diesel",
+      "body": "Green / Grey / Blue",
+      "background": "Green",
+      "category": "Fruit",
+      "category2": "Diesel",
+      "type": "hybrid",
+      "thc": 22
+    },
+    {
+      "id": 313,
+      "name": "Black Hole",
+      "body": "Green",
+      "background": "Purple / Pink",
+      "category": "Space",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 26
+    },
+    {
+      "id": 314,
+      "name": "Rainbow Banana",
+      "body": "Rainbow / Yellow",
+      "background": "Purple / Pink",
+      "category": "Fruit",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 26
+    },
+    {
+      "id": 315,
+      "name": "Alien Orange Gum",
+      "body": "Orange",
+      "background": "Black",
+      "category": "Alien",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 16
+    },
+    {
+      "id": 316,
+      "name": "LeBron Haze",
+      "body": "Green / Yellow",
+      "background": "Purple / Pink",
+      "category": "Celebrity",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 25
+    },
+    {
+      "id": 317,
+      "name": "Joker",
+      "body": "Green / Purple",
+      "background": "Purple",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 18
+    },
+    {
+      "id": 318,
+      "name": "Chernobyl",
+      "body": "Neon Green",
+      "background": "Black",
+      "category": "Neon",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 18
+    },
+    {
+      "id": 320,
+      "name": "Purple Haze",
+      "body": "Purple",
+      "background": "Purple / Black",
+      "category": "Legendary",
+      "category2": "Purple",
+      "type": "mostly sativa",
+      "thc": 17
+    },
+    {
+      "id": 321,
+      "name": "Wedding Cake",
+      "body": "Green",
+      "background": "Pink / Orange",
+      "category": "Sweet",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 22
+    },
+    {
+      "id": 322,
+      "name": "Fruity Pebbles OG",
+      "body": "Rainbow / Blue / Green",
+      "background": "Blue",
+      "category": "Fruit",
+      "category2": "OG",
+      "type": "mostly indica",
+      "thc": 18
+    },
+    {
+      "id": 323,
+      "name": "Face Off OG",
+      "body": "Green / Grey",
+      "background": "Blue / Green",
+      "category": "Fantasy",
+      "category2": "OG",
+      "type": "mostly indica",
+      "thc": 19
+    },
+    {
+      "id": 324,
+      "name": "Skunk N°1",
+      "body": "Green",
+      "background": "Purple",
+      "category": "Legendary",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 16
+    },
+    {
+      "id": 325,
+      "name": "Lost Pearl",
+      "body": "Green",
+      "background": "Green / Yellow",
+      "category": "Jewelry",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 21
+    },
+    {
+      "id": 326,
+      "name": "Apple Fritter",
+      "body": "Brown",
+      "background": "Orange",
+      "category": "Fruit",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 25
+    },
+    {
+      "id": 327,
+      "name": "Super Glue",
+      "body": "Green",
+      "background": "Pink",
+      "category": "",
+      "category2": "Glue",
+      "type": "mostly indica",
+      "thc": 20
+    },
+    {
+      "id": 328,
+      "name": "Papaya",
+      "body": "Orange",
+      "background": "Pink / Orange",
+      "category": "Fruit",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 26
+    },
+    {
+      "id": 329,
+      "name": "Sapphire OG",
+      "body": "Blue / Orange",
+      "background": "Green",
+      "category": "Jewelry",
+      "category2": "OG",
+      "type": "hybrid",
+      "thc": 25
+    },
+    {
+      "id": 330,
+      "name": "Venom OG",
+      "body": "Green",
+      "background": "Red / Ruby",
+      "category": "Fantasy",
+      "category2": "OG",
+      "type": "hybrid",
+      "thc": 26
+    },
+    {
+      "id": 331,
+      "name": "Ghost Train Haze",
+      "body": "White",
+      "background": "Green",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 27
+    },
+    {
+      "id": 332,
+      "name": "Power Plant",
+      "body": "Neon Green / Grey",
+      "background": "Black",
+      "category": "Neon",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 21
+    },
+    {
+      "id": 333,
+      "name": "Unicorn Poop",
+      "body": "Rainbow / Green",
+      "background": "Blue / Green",
+      "category": "Unicorn",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 28
+    },
+    {
+      "id": 334,
+      "name": "Royal Cookies",
+      "body": "Brown",
+      "background": "Purple",
+      "category": "Sweet",
+      "category2": "Cookies",
+      "type": "hybrid",
+      "thc": 27
+    },
+    {
+      "id": 335,
+      "name": "Hell's OG",
+      "body": "Orange",
+      "background": "Black",
+      "category": "Fantasy",
+      "category2": "OG",
+      "type": "hybrid",
+      "thc": 26
+    },
+    {
+      "id": 336,
+      "name": "Brain Cake",
+      "body": "Green",
+      "background": "Purple / Pink",
+      "category": "Sweet",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 24
+    },
+    {
+      "id": 337,
+      "name": "Triangle Kush",
+      "body": "Green",
+      "background": "Purple / Blue",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 26
+    },
+    {
+      "id": 338,
+      "name": "Elixir CBD",
+      "body": "Neon Green / Purple",
+      "background": "Black",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 5
+    },
+    {
+      "id": 339,
+      "name": "Lavender",
+      "body": "Green",
+      "background": "Purple",
+      "category": "Plant",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 21
+    },
+    {
+      "id": 340,
+      "name": "Gorilla Cookies",
+      "body": "Brown",
+      "background": "Brown",
+      "category": "Animals",
+      "category2": "Cookies",
+      "type": "mostly indica",
+      "thc": 26
+    },
+    {
+      "id": 341,
+      "name": "Lemon Ice",
+      "body": "Yellow / Brown",
+      "background": "Blue / Green",
+      "category": "Ice Cream",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 25
+    },
+    {
+      "id": 342,
+      "name": "Apollo 11",
+      "body": "White / Grey",
+      "background": "Black",
+      "category": "Space",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 24
+    },
+    {
+      "id": 343,
+      "name": "Jelly Breath",
+      "body": "Green",
+      "background": "Blue / Green",
+      "category": "Sweet",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 26
+    },
+    {
+      "id": 344,
+      "name": "Deadhead OG",
+      "body": "White / Grey",
+      "background": "Green",
+      "category": "Fantasy",
+      "category2": "OG",
+      "type": "hybrid",
+      "thc": 23
+    },
+    {
+      "id": 345,
+      "name": "Electric Jellyfish",
+      "body": "Green",
+      "background": "Black",
+      "category": "Animals",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 26
+    },
+    {
+      "id": 346,
+      "name": "Cookie Glue",
+      "body": "Brown",
+      "background": "Purple",
+      "category": "Sweet",
+      "category2": "Glue",
+      "type": "mostly indica",
+      "thc": 27
+    },
+    {
+      "id": 347,
+      "name": "Tangie",
+      "body": "Orange",
+      "background": "Purple / Pink",
+      "category": "Fruit",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 23
+    },
+    {
+      "id": 348,
+      "name": "Mimosa",
+      "body": "Green / Purple",
+      "background": "Green",
+      "category": "Plant",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 26
+    },
+    {
+      "id": 349,
+      "name": "Crystal Coma",
+      "body": "Neon Green",
+      "background": "Black",
+      "category": "Jewelry",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 26
+    },
+    {
+      "id": 350,
+      "name": "Stracciatella",
+      "body": "White / Brown / Green",
+      "background": "Brown",
+      "category": "Ice Cream",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 25
+    },
+    {
+      "id": 351,
+      "name": "Master Kush",
+      "body": "Brown",
+      "background": "Orange",
+      "category": "Legendary",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 21
+    },
+    {
+      "id": 352,
+      "name": "Black Domina",
+      "body": "Black",
+      "background": "Purple",
+      "category": "Legendary",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 21
+    },
+    {
+      "id": 353,
+      "name": "Flat Brainers",
+      "body": "Green / Pink",
+      "background": "Pink",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 25
+    },
+    {
+      "id": 354,
+      "name": "Diamond Dust OG",
+      "body": "Purple / Pink / Blue",
+      "background": "Black",
+      "category": "Jewelry",
+      "category2": "OG",
+      "type": "hybrid",
+      "thc": 23
+    },
+    {
+      "id": 355,
+      "name": "Ace of Spades",
+      "body": "White",
+      "background": "Black",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 21
+    },
+    {
+      "id": 356,
+      "name": "Money Maker",
+      "body": "Green",
+      "background": "Green",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 24
+    },
+    {
+      "id": 357,
+      "name": "Cereal Milk",
+      "body": "White /. Green",
+      "background": "Blue",
+      "category": "Sweet",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 25
+    },
+    {
+      "id": 358,
+      "name": "Galactic Glue",
+      "body": "Neon Green",
+      "background": "Black",
+      "category": "Space",
+      "category2": "Glue",
+      "type": "hybrid",
+      "thc": 21
+    },
+    {
+      "id": 359,
+      "name": "Chocoholic",
+      "body": "Brown / Green",
+      "background": "Pink / Orange",
+      "category": "Chocolate",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 19
+    },
+    {
+      "id": 360,
+      "name": "Agent Orange",
+      "body": "Orange",
+      "background": "Purple / Pink",
+      "category": "",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 21
+    },
+    {
+      "id": 361,
+      "name": "GMO Cookies",
+      "body": "Brown / Green",
+      "background": "Purple",
+      "category": "",
+      "category2": "Cookies",
+      "type": "hybrid",
+      "thc": 24
+    },
+    {
+      "id": 362,
+      "name": "Critical Mass",
+      "body": "Orange / Red",
+      "background": "Purple",
+      "category": "Legendary",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 21
+    },
+    {
+      "id": 363,
+      "name": "Northern Wreck",
+      "body": "Rainbow",
+      "background": "White",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 21
+    },
+    {
+      "id": 364,
+      "name": "Crystal Rain",
+      "body": "Neon Green",
+      "background": "Black",
+      "category": "Jewelry",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 22
+    },
+    {
+      "id": 365,
+      "name": "Monster Glue",
+      "body": "Green",
+      "background": "Blue / Green",
+      "category": "Fantasy",
+      "category2": "Glue",
+      "type": "mostly indica",
+      "thc": 26
+    },
+    {
+      "id": 366,
+      "name": "Acid Dough",
+      "body": "Rainbow",
+      "background": "Green",
+      "category": "Trippy",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 24
+    },
+    {
+      "id": 367,
+      "name": "Moon Cookies",
+      "body": "Brown",
+      "background": "Black",
+      "category": "Space",
+      "category2": "Cookies",
+      "type": "mostly indica",
+      "thc": 26
+    },
+    {
+      "id": 368,
+      "name": "Afghan Kush",
+      "body": "Green",
+      "background": "Blue / Green",
+      "category": "Legendary",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 18
+    },
+    {
+      "id": 369,
+      "name": "Durban Poison",
+      "body": "Green / Yellow",
+      "background": "Green",
+      "category": "Legendary",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 19
+    },
+    {
+      "id": 370,
+      "name": "Rocket Fuel",
+      "body": "Neon Green",
+      "background": "Black",
+      "category": "Space",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 22
+    },
+    {
+      "id": 371,
+      "name": "Thai Stick",
+      "body": "Green / Gold",
+      "background": "Green",
+      "category": "Legendary",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 12
+    },
+    {
+      "id": 372,
+      "name": "Passion Fruit",
+      "body": "Red / Ruby / Orange",
+      "background": "Blue / Green",
+      "category": "Fruit",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 20
+    },
+    {
+      "id": 373,
+      "name": "24K Gold",
+      "body": "Gold",
+      "background": "Purple",
+      "category": "Jewelry",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 23
+    },
+    {
+      "id": 374,
+      "name": "Rainbow Mints",
+      "body": "Rainbow / Blue / Green",
+      "background": "Blue / Green",
+      "category": "Sweet",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 24
+    },
+    {
+      "id": 375,
+      "name": "Pineapple Poison",
+      "body": "Green",
+      "background": "Orange",
+      "category": "Fruit",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 20
+    },
+    {
+      "id": 376,
+      "name": "Monkey Bread",
+      "body": "Green / Brown",
+      "background": "Green",
+      "category": "Food",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 24
+    },
+    {
+      "id": 377,
+      "name": "Phantom OG",
+      "body": "Green",
+      "background": "Purple",
+      "category": "Fantasy",
+      "category2": "OG",
+      "type": "hybrid",
+      "thc": 22
+    },
+    {
+      "id": 378,
+      "name": "Candyland",
+      "body": "Red / Blue",
+      "background": "Blue / Green",
+      "category": "Sweet",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 22
+    },
+    {
+      "id": 379,
+      "name": "Master Skunk",
+      "body": "Orange / Brown",
+      "background": "Green",
+      "category": "",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 25
+    },
+    {
+      "id": 380,
+      "name": "Waffle Cone",
+      "body": "Brown",
+      "background": "Orange / Red",
+      "category": "Sweet",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 22
+    },
+    {
+      "id": 381,
+      "name": "Chocolate Lava",
+      "body": "Brown",
+      "background": "Purple",
+      "category": "Sweet",
+      "category2": "Chocolate",
+      "type": "mostly indica",
+      "thc": 27
+    },
+    {
+      "id": 382,
+      "name": "Pineapple Zkittlez",
+      "body": "Rainbow",
+      "background": "Blue",
+      "category": "Fruit",
+      "category2": "Zkittlez",
+      "type": "hybrid",
+      "thc": 24
+    },
+    {
+      "id": 383,
+      "name": "Mr.Nice",
+      "body": "Green / White",
+      "background": "Green",
+      "category": "Legendary",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 20
+    },
+    {
+      "id": 384,
+      "name": "Colombian Gold",
+      "body": "Gold",
+      "background": "Brown",
+      "category": "Legendary",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 18
+    },
+    {
+      "id": 385,
+      "name": "Cookie Dough",
+      "body": "Brown / White",
+      "background": "Brown",
+      "category": "Sweet",
+      "category2": "Cookies",
+      "type": "hybrid",
+      "thc": 23
+    },
+    {
+      "id": 386,
+      "name": "Rainbow Kush",
+      "body": "Rainbow",
+      "background": "Purple",
+      "category": "Fantasy",
+      "category2": "Kush",
+      "type": "mostly indica",
+      "thc": 21
+    },
+    {
+      "id": 387,
+      "name": "Holland's Hope",
+      "body": "Green / White / Yellow",
+      "background": "Orange / Yellow",
+      "category": "Legendary",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 19
+    },
+    {
+      "id": 388,
+      "name": "French Macaron",
+      "body": "Green",
+      "background": "Brown",
+      "category": "Sweet",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 22
+    },
+    {
+      "id": 389,
+      "name": "Bubblegun",
+      "body": "Green / Rainbow",
+      "background": "Blue / Green",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 20
+    },
+    {
+      "id": 390,
+      "name": "Himalayan Gold",
+      "body": "Gold",
+      "background": "Green",
+      "category": "Legendary",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 17
+    },
+    {
+      "id": 391,
+      "name": "UK Cheese",
+      "body": "Black / Red / Orange",
+      "background": "Red / Orange",
+      "category": "Food",
+      "category2": "Cheese",
+      "type": "mostly indica",
+      "thc": 21
+    },
+    {
+      "id": 392,
+      "name": "Guava Jelly",
+      "body": "Pink / Red",
+      "background": "Blue / Green",
+      "category": "Sweet",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 23
+    },
+    {
+      "id": 393,
+      "name": "Lemon Fire OG",
+      "body": "Yellow / Green",
+      "background": "Green",
+      "category": "Fruit",
+      "category2": "OG",
+      "type": "hybrid",
+      "thc": 23
+    },
+    {
+      "id": 394,
+      "name": "Skunkberry",
+      "body": "Blue",
+      "background": "Purple",
+      "category": "Fruit",
+      "category2": "Skunk",
+      "type": "mostly indica",
+      "thc": 22
+    },
+    {
+      "id": 395,
+      "name": "Black Diamond",
+      "body": "Black",
+      "background": "Green",
+      "category": "Jewelry",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 23
+    },
+    {
+      "id": 396,
+      "name": "Syrup OG",
+      "body": "Pink / Red",
+      "background": "Pink",
+      "category": "Sweet",
+      "category2": "OG",
+      "type": "hybrid",
+      "thc": 19
+    },
+    {
+      "id": 397,
+      "name": "Lost Soul",
+      "body": "White",
+      "background": "Grey",
+      "category": "Fantasy",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 23
+    },
+    {
+      "id": 398,
+      "name": "Blob OG",
+      "body": "Green",
+      "background": "Green",
+      "category": "Fantasy",
+      "category2": "OG",
+      "type": "hybrid",
+      "thc": 20
+    },
+    {
+      "id": 399,
+      "name": "Panda Glue",
+      "body": "Black / White",
+      "background": "Green",
+      "category": "Animals",
+      "category2": "Glue",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 400,
+      "name": "Unicorn Cookies",
+      "body": "Brown / Rainbow",
+      "background": "Brown",
+      "category": "Fantasy",
+      "category2": "Cookies",
+      "type": "hybrid",
+      "thc": 26
+    },
+    {
+      "id": 401,
+      "name": "Pine Tar Kush",
+      "body": "Black",
+      "background": "Green",
+      "category": "",
+      "category2": "Kush",
+      "type": "mostly indica",
+      "thc": 24
+    },
+    {
+      "id": 402,
+      "name": "Alien Poison",
+      "body": "Purple / Green",
+      "background": "Green",
+      "category": "",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 26
+    },
+    {
+      "id": 403,
+      "name": "Banana Pudding",
+      "body": "Yellow / Brown",
+      "background": "Orange",
+      "category": "",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 22
+    },
+    {
+      "id": 404,
+      "name": "Blue Lemon Haze",
+      "body": "Blue",
+      "background": "Green",
+      "category": "Fruit",
+      "category2": "Haze",
+      "type": "mostly sativa",
+      "thc": 21
+    },
+    {
+      "id": 405,
+      "name": "Quantum Kush",
+      "body": "Green",
+      "background": "Green",
+      "category": "Space",
+      "category2": "Kush",
+      "type": "mostly sativa",
+      "thc": 22
+    },
+    {
+      "id": 406,
+      "name": "Sour Apple Killer",
+      "body": "Green",
+      "background": "Green",
+      "category": "",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 27
+    },
+    {
+      "id": 407,
+      "name": "Cherry Burst",
+      "body": "Red / Ruby",
+      "background": "Red / Pink",
+      "category": "",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 21
+    },
+    {
+      "id": 408,
+      "name": "Gingerbread Cookies",
+      "body": "Brown",
+      "background": "Orange",
+      "category": "Food",
+      "category2": "Cookies",
+      "type": "hybrid",
+      "thc": 24
+    },
+    {
+      "id": 409,
+      "name": "Stardawg",
+      "body": "White",
+      "background": "Black",
+      "category": "",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 21
+    },
+    {
+      "id": 410,
+      "name": "Wizard Punch",
+      "body": "Green / Purple",
+      "background": "Green",
+      "category": "",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 20
+    },
+    {
+      "id": 411,
+      "name": "TITS",
+      "body": "Green",
+      "background": "Green",
+      "category": "",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 26
+    },
+    {
+      "id": 412,
+      "name": "Pyramid OG",
+      "body": "Yellow",
+      "background": "Yellow",
+      "category": "Fantasy",
+      "category2": "OG",
+      "type": "hybrid",
+      "thc": 24
+    },
+    {
+      "id": 413,
+      "name": "Ice Cream Cake",
+      "body": "Brown / Rainbow",
+      "background": "Orange / Yellow",
+      "category": "Sweet",
+      "category2": "Gelato",
+      "type": "mostly indica",
+      "thc": 25
+    },
+    {
+      "id": 414,
+      "name": "Hawaiian Trainwreck",
+      "body": "Blue / Yellow",
+      "background": "Blue / Green",
+      "category": "",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 23
+    },
+    {
+      "id": 415,
+      "name": "Jamaican Pearl",
+      "body": "Green / Yellow / Red",
+      "background": "Orange",
+      "category": "",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 20
+    },
+    {
+      "id": 416,
+      "name": "Sour LSD",
+      "body": "Rainbow",
+      "background": "Pink",
+      "category": "",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 25
+    },
+    {
+      "id": 417,
+      "name": "Alien Pebbles",
+      "body": "Blue / White",
+      "background": "Black",
+      "category": "",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 25
+    },
+    {
+      "id": 418,
+      "name": "Swiss Fragolina",
+      "body": "Red / Pink / Yellow",
+      "background": "Pink / Orange",
+      "category": "",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 19
+    },
+    {
+      "id": 419,
+      "name": "Ayahuasca Purple",
+      "body": "Purple / Rainbow",
+      "background": "Green",
+      "category": "",
+      "category2": "",
+      "type": "mostly indica",
+      "thc": 22
+    },
+    {
+      "id": 420,
+      "name": "420 Glue",
+      "body": "Green",
+      "background": "Purple",
+      "category": "",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 26
+    },
+    {
+      "id": 421,
+      "name": "Bombsicle",
+      "body": "Pink / Yellow / Blue",
+      "background": "Blue",
+      "category": "",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 22
+    },
+    {
+      "id": 422,
+      "name": "Sunset Gelato",
+      "body": "Green / Brown",
+      "background": "Green",
+      "category": "",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 23
+    },
+    {
+      "id": 423,
+      "name": "Treasure Island",
+      "body": "Yellow / Black",
+      "background": "Blue / Green",
+      "category": "",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 19
+    },
+    {
+      "id": 424,
+      "name": "Maui Dawg",
+      "body": "Green",
+      "background": "Green",
+      "category": "",
+      "category2": "",
+      "type": "mostly sativa",
+      "thc": 30
+    },
+    {
+      "id": 425,
+      "name": "Big Bazooka",
+      "body": "Grey / Brown / Green",
+      "background": "Green",
+      "category": "",
+      "category2": "",
+      "type": "hybrid",
+      "thc": 26
+    },
+    {
+      "id": 426,
+      "name": "Strawberry Crack",
+      "body": "Red / Pink",
+      "background": "Purple / Pink",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 427,
+      "name": "Big Foot Glue",
+      "body": "Green",
+      "background": "Green",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 428,
+      "name": "Aurora Haze",
+      "body": "Rainbow",
+      "background": "Black",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 429,
+      "name": "Banana Cheese",
+      "body": "Yellow",
+      "background": "Purple / Pink",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 430,
+      "name": "Colbalt Ice",
+      "body": "Blue",
+      "background": "Blue",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 431,
+      "name": "Space Ghost",
+      "body": "Green",
+      "background": "Black",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 432,
+      "name": "Rainbow Gelato",
+      "body": "Rainbow / Brown",
+      "background": "Orange / Yellow",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 433,
+      "name": "Peanut Butter Breath",
+      "body": "Brown / Yellow",
+      "background": "Pink / Orange",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 434,
+      "name": "Rainbow Cookies",
+      "body": "Rainbow / Brown",
+      "background": "Pink / Orange",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 435,
+      "name": "Cherry Lime Haze",
+      "body": "Green / Red / Ruby",
+      "background": "Blue / Green",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 436,
+      "name": "Banana Cookies",
+      "body": "Yellow / Brown",
+      "background": "Pink / Orange",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 437,
+      "name": "Dark Plasma",
+      "body": "Green / Black",
+      "background": "Green",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 438,
+      "name": "Cookies & Cream",
+      "body": "White / Brown",
+      "background": "Blue / Green",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 439,
+      "name": "French Toast",
+      "body": "Brown",
+      "background": "Yellow",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 440,
+      "name": "Phantom Cookies",
+      "body": "Brown",
+      "background": "Brown",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 441,
+      "name": "The Hog",
+      "body": "Green",
+      "background": "Green",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 442,
+      "name": "Cheese Quake",
+      "body": "Yellow",
+      "background": "Blue / Green",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 443,
+      "name": "Girl Scout Yeti",
+      "body": "White / Green",
+      "background": "White / Green",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 444,
+      "name": "Melting Strawberries",
+      "body": "Red / Pink",
+      "background": "Purple / Pink",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 445,
+      "name": "Alien Rock Candy",
+      "body": "Rainbow / Purple",
+      "background": "Black",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 446,
+      "name": "Gorilla Mango",
+      "body": "Yellow / Orange",
+      "background": "Blue / Green",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 447,
+      "name": "Rainbow Cake",
+      "body": "Rainbow",
+      "background": "Purple",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 448,
+      "name": "Dragon Fruit",
+      "body": "Purple / Ruby / Red",
+      "background": "Green / Yellow",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 449,
+      "name": "Unicorn Tears",
+      "body": "Rainbow",
+      "background": "Pink",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 450,
+      "name": "Cherry Kiss",
+      "body": "Ruby / Red",
+      "background": "Blue / Green",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 451,
+      "name": "The Toad",
+      "body": "Green",
+      "background": "Blue / Green",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 452,
+      "name": "Acid Diesel Hog",
+      "body": "Rainbow / Green",
+      "background": "Green",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 453,
+      "name": "Banana Candy",
+      "body": "Yellow / White / Pink",
+      "background": "Pink / Orange",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 454,
+      "name": "Emerald Cookies",
+      "body": "Green / Brown",
+      "background": "Green",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 455,
+      "name": "Milk Bone",
+      "body": "White",
+      "background": "Green / White",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 456,
+      "name": "Aliens on Moonshine",
+      "body": "Yellow",
+      "background": "Black",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 457,
+      "name": "Bootylicious",
+      "body": "Pink / Green",
+      "background": "Pink",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 458,
+      "name": "Hell Monkey",
+      "body": "Green",
+      "background": "Green",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 459,
+      "name": "Bloody Skunk",
+      "body": "Red",
+      "background": "Red",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 460,
+      "name": "GMO Zkittlez",
+      "body": "Rainbow / Green",
+      "background": "Pink / Orange",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 461,
+      "name": "Khalifa Mints",
+      "body": "Blue / Green",
+      "background": "Blue / Green",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 462,
+      "name": "Alcoholic Alligator",
+      "body": "Green",
+      "background": "Green",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 463,
+      "name": "Dynamite Cookies",
+      "body": "Brown",
+      "background": "Green",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 464,
+      "name": "Crystal Gelato",
+      "body": "Green / Brown",
+      "background": "Blue / Green",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 465,
+      "name": "Coffee Kush",
+      "body": "Brown",
+      "background": "Purple",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 466,
+      "name": "Phishhead Kush",
+      "body": "Grey",
+      "background": "Green",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 467,
+      "name": "Double Rainbow",
+      "body": "Rainbow / Green",
+      "background": "Blue / Green",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 468,
+      "name": "Moon Train",
+      "body": "Grey",
+      "background": "Black",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 469,
+      "name": "Shark Widow",
+      "body": "Green",
+      "background": "Green / Grey",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 470,
+      "name": "Monolith",
+      "body": "Grey",
+      "background": "Green",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 471,
+      "name": "Vanilla Bean",
+      "body": "Brown / Yellow / Vanilla",
+      "background": "Brown",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 472,
+      "name": "Cherry Zkittlez",
+      "body": "Red / Green / Rainbow",
+      "background": "Purple / Pink",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 473,
+      "name": "Rainbow Crush",
+      "body": "Rainbow",
+      "background": "Green",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 474,
+      "name": "Strawberry Moon (Houseplant)",
+      "body": "Red / Pink",
+      "background": "Black",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 475,
+      "name": "Fluidic Space",
+      "body": "Rainbow / Black",
+      "background": "Blue / Green",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 476,
+      "name": "Kandy Glue",
+      "body": "Green / Multi Color",
+      "background": "Purple / Pink",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 477,
+      "name": "AK Choco Kush",
+      "body": "Brown",
+      "background": "Pink / Orange",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 478,
+      "name": "Rainbow Zkittlez",
+      "body": "Rainbow",
+      "background": "Blue / Purple",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 479,
+      "name": "Ancient Kush",
+      "body": "Green / Grey / White",
+      "background": "Yellow",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    },
+    {
+      "id": 480,
+      "name": "Grizzly Kush",
+      "body": "Green / Brown",
+      "background": "Green",
+      "category": "",
+      "category2": "",
+      "type": "",
+      "thc": ""
+    }
+  ]
+}
